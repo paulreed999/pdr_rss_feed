@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>GeoP Watch</title>
+        <link>https://web.telegram.org/k/#@GeoPWatch</link>
+        <description>Get the latest geopolitical updates from GeoP Watch.</description>
+        <item>
+            <title>GeoP Watch - Updates</title>
+            <link>https://web.telegram.org/k/#@GeoPWatch</link>
+            <description>Get the latest geopolitical updates from GeoP Watch.</description>
+            <pubDate>Mon, 25 Dec 2024 12:00:00 +0000</pubDate>
+        </item>
+    </channel>
+</rss>

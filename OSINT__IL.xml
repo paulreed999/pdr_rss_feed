@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>OSINT - IL</title>
+        <link>https://web.telegram.org/k/#@osintil</link>
+        <description>Stay updated with the latest OSINT insights from OSINT - IL.</description>
+        <item>
+            <title>OSINT - IL - Updates</title>
+            <link>https://web.telegram.org/k/#@osintil</link>
+            <description>Stay updated with the latest OSINT insights from OSINT - IL.</description>
+            <pubDate>Mon, 25 Dec 2024 12:00:00 +0000</pubDate>
+        </item>
+    </channel>
+</rss>

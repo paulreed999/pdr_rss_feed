@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Clash Report</title>
+        <link>https://web.telegram.org/k/#@ClashReport</link>
+        <description>Stay updated with the latest reports from Clash Report.</description>
+        <item>
+            <title>Clash Report - Updates</title>
+            <link>https://web.telegram.org/k/#@ClashReport</link>
+            <description>Stay updated with the latest reports from Clash Report.</description>
+            <pubDate>Mon, 25 Dec 2024 12:00:00 +0000</pubDate>
+        </item>
+    </channel>
+</rss>
